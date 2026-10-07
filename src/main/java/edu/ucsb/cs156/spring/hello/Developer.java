@@ -42,7 +42,7 @@ public class Developer {
         team.addMember("Chazz");
         team.addMember("David");
         team.addMember("Edward");
-        team.addMember("Noah R\r\n");
+        team.addMember("Noah R");
         team.addMember("Tyler");
 
         return team;
